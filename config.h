@@ -7,7 +7,7 @@
  */
 static char font[] = "Fira Mono:size=10.5:antialias=true:autohint=true";
 static int borderpx = 2;
-static int histsize = 2000;
+static int histsize = 20000;
 
 /*
  * What program is execed by st depends of these precedence rules:
